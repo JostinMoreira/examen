@@ -161,22 +161,22 @@ Para agregar, por ejemplo, "Doctores":
 
 La primera imagen muestra lo que un usuario debe observar cuando accede a su app. Lo que su familia disfrutará el día de hoy.
 
-![I1](./public/assets/images/I1.jpg)
+![I1](./public/assets/images/I1.png)
 
 La segunda imagen es la planificación que la puede realizar cualquier miembro adulto de la familia. Al escoger un rango de fechas el usuario puede asignar que plato se servirá en esos días tanto en desayuno, como almuerzo y merienda.
 
-![I2](./public/assets/images/I2.jpg)
+![I2](./public/assets/images/I2.png)
 
 En la tercera imagen se muestra como se crea un nuevo plato, incluyendo el detalle de los ingredientes del mismo.
 
-![I3](./public/assets/images/I3.jpg)
+![I3](./public/assets/images/I3.png)
 
 En la cuarta imagen apreciamos como la aplicación puede mostrar también el mismo plato en otro formato de visualización y permitiendo que los miembros de la familia comenten sobre el mismo.
 
-![I4](./public/assets/images/I4.jpg)
+![I4](./public/assets/images/I4.png)
 
 En la quinta imagen podemos apreciar que en base a los ingredientes de estos platos escogidos por un periodo específico es posible conocer un detalle de los producto que se van a requerir y así armar su lista de compras.
 
-![I5](./public/assets/images/I5.jpg)
+![I5](./public/assets/images/I5.png)
 
 Tomar en cuenta todos los atributos que aunque no explícitos en las imágenes te ayudarán a estructurar tus objetos y sus relaciones. 
